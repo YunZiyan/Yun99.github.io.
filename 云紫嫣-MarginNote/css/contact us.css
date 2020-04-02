@@ -1,0 +1,35 @@
+
+a:hover{
+    color:rgb(0, 0, 0);
+}
+a{
+    text-decoration : none;
+}
+.box1{
+    font-size:20px;
+    text-align: right;
+    font-weight: bold;   
+}
+
+.box2{
+    font-size:20px;
+    text-align:center;
+}
+.block{
+    float:left;
+    width:33.3%;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif
+}
+.block1{
+    float:center;
+    width:33.3%;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif
+}
+.block2{
+    float:right;
+    width:33.3%;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif
+}
