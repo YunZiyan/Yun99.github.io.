@@ -1,0 +1,22 @@
+body{
+    background-image:url('8.jpg');
+}
+.box1{
+    border:20px rgb(179, 216, 231) solid;
+    padding:20px;
+    border-radius: 35px;
+    text-align: left;
+    line-height: 25px;
+    font-size: 20px;
+}
+.img{
+    float:right;
+}
+.photo{
+    float:right;
+    width:80%;
+}
+.intro{
+    float:left;
+    width:20%;
+}
